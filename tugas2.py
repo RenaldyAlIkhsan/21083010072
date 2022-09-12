@@ -1,0 +1,5 @@
+print("Nama : Renaldy al IKhsan")
+print("NPM  : 21083010072")
+print("---------------------------")
+print("Hallo Dunia")
+print(" ini skrip python  pertamaku di linux")
